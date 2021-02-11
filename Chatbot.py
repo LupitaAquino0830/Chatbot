@@ -1,5 +1,4 @@
 print("Bienvenido. ¿En qué te puedo ayudar?")
-
 print("Cuento con estas funciones: \n")
 print("1. Menú")
 print("2. Promociones")
