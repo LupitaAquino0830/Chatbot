@@ -49,4 +49,4 @@ elif option == 3:
    print(f'{dia} - {horario}')
 else:
   print("No elegiste una opción, vuelve a elegirlo.")
-  print(f"Elige una opcion valida: {}")
+  print(f"Elige una opcion valida: {option}")
